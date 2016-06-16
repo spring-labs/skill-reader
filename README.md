@@ -18,3 +18,20 @@ Read skills and endorsements from LinkedIn and builds a heatmap that can be incl
 ```
 <img src="https://skillreadr.herokuapp.com/fetch?x=500&y=100" />
 ```
+
+# Authentication
+
+ Skill Reader uses OAuth2 to connect to LinkedIn.
+
+# Research
+
+ We can build the app in many languages. Java with Spring Boot or Python are the favorite ones.
+ 
+## Spring Boot
+ 
+## Python libraries
+ 
+ http://docs.python-requests.org/en/latest/
+ 
+ https://plot.ly/python/bubble-charts/
+ 
