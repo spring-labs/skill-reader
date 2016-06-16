@@ -10,3 +10,11 @@ Read skills and endorsements from LinkedIn and builds a heatmap that can be incl
 # Extension points
 
 - Connect to Xing, custom datasource
+
+# Usage
+
+ Embedded as image source
+
+```
+<img src="https://skillreadr.herokuapp.com/fetch?x=500&y=100" />
+```
