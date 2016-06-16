@@ -1,2 +1,12 @@
-# skill-reader
-Read skills and endorsements from LinkedIn and build a heatmap
+# Skill Reader
+Read skills and endorsements from LinkedIn and builds a heatmap that can be included as svg.
+
+# Features
+
+- Presentation as heatmap or bubble chart
+- Embeddable as SVG or image source (PNG, JPG)
+- Connect to LinkedIn
+
+# Extension points
+
+- Connect to Xing, custom datasource
