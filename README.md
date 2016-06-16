@@ -28,6 +28,14 @@ Read skills and endorsements from LinkedIn and builds a heatmap that can be incl
 
  Skill Reader uses OAuth2 to connect to LinkedIn.
 
+# Development
+
+ Start the Spring Boot application in IntelliJ and do a GET w/ your favorite REST client
+ 
+```
+http://localhost:8080
+```
+
 # Research
 
  We can build the app in many languages. Java with Spring Boot or Python are the favorite ones.
