@@ -9,4 +9,7 @@ public class SkillReaderApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SkillReaderApplication.class, args);
 	}
+
+
+
 }
