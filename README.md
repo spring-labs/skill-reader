@@ -21,7 +21,7 @@ Read skills and endorsements from LinkedIn and builds a heatmap that can be incl
  After connecting with LinkedIn, the UI will automatically create a preview image and generate the URL to embed the image in different sizes:
 
 ```
-<img src="https://skillreadr.herokuapp.com/fetch?user=AQXdSP_W41_UPs5ioT_t8HESyODB4FqbkJ8LrV_5mff4gPODzOYR&x=500&y=100" />
+<img src="https://skillreadr.herokuapp.com/heatmap?user=AQXdSP_W41_UPs5ioT_t8HESyODB4FqbkJ8LrV_5mff4gPODzOYR&x=500&y=100" />
 ```
 
 # Authentication
