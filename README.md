@@ -1,3 +1,7 @@
+# !! Project closed !!
+
+Because LinkedIn closed their API and it is not possible anymore to get the number of endorsements. Just a list of skill names is returned. see https://developer.linkedin.com/docs/fields
+
 # Skill Reader
 Read skills and endorsements from LinkedIn and builds a heatmap that can be included as svg.
 
